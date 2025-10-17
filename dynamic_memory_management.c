@@ -1,12 +1,13 @@
 /**
- * Dynamic Email Management System
+ * Dynamic Memory Management
  * 
- * This program demonstrates dynamic memory allocation for managing
- * student email addresses. It allocates memory for 10 emails,
- * then efficiently shrinks to 6 using realloc().
+ * Advanced C implementation demonstrating dynamic memory allocation
+ * for student email management with memory optimization.
+ * Features malloc(), realloc(), and comprehensive error handling.
  * 
- * Author: [Your Name]
- * Course: Week 7 Assignment - Memory Management
+ * Author: AMAN-KASA
+ * Project: Dynamic Memory Management
+ * Institution: ALU (African Leadership University)
  */
 
 #include <stdio.h>

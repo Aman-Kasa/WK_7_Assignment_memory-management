@@ -1,3 +1,6 @@
+[Dynamic memory management](https://imgs.search.brave.com/QFedK6ro5OO-kMS_L1wptqi4G7-HYwSsWxEt-p65LCY/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9kb3Ru/ZXR0cmlja3NjbG91/ZC5ibG9iLmNvcmUu/d2luZG93cy5uZXQv/YXJ0aWNsZS81NjIw/MjUwODAyMTM0NzQ5/LndlYnA)
+
+
 # Dynamic Email Management System
 
 A C program demonstrating advanced dynamic memory allocation techniques for managing student email addresses with efficient memory optimization.
@@ -18,12 +21,12 @@ This system manages a cohort of student email addresses using dynamic memory all
 
 ### Compilation
 ```bash
-gcc -Wall -Wextra -std=c99 -o email_manager wk_7_assignment.c
+gcc -Wall -Wextra -std=c99 -o dynamic_memory_management dynamic_memory_management.c
 ```
 
 ### Execution
 ```bash
-./email_manager
+./dynamic_memory_management
 ```
 
 ### Sample Usage
