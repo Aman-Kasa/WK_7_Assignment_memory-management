@@ -108,10 +108,4 @@ GitHub: [https://github.com/Aman-Kasa](https://github.com/Aman-Kasa)
 **Coach**: Thadee  
 **Institution**: ALU (African Leadership University)
 
-## 📄 License
-
-This project is part of academic coursework and is intended for educational purposes.
-
----
-
-*Built with precision, optimized for performance, designed for learning.*
+-----------------------------------------------------------------------------------------
